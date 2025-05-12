@@ -65,3 +65,7 @@ cd Server
  } 
 } 
 ```
+### Output Image:
+![Output Image](https://github.com/user-attachments/assets/11f48924-b35d-4e61-ae72-9a671e47ca4c)
+
+![Output Image](https://github.com/user-attachments/assets/839eff18-0f8f-4585-9d4c-d29b257fc626)
